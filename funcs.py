@@ -2,8 +2,14 @@ def add_numbers(x, y):
     sum = x + y
     return sum
 
-def subtract(x, y):
-    return x - y
+
+first_operand = 19
+second_operand = 21
+
+output = second_operand - first_operand
+
+print('Substraction is', output)
+
 
 num1 = 15
 num2 = 20
