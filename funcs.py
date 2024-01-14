@@ -2,6 +2,8 @@ def add_numbers(x, y):
     sum = x + y
     return sum
 
+def subtract(x, y):
+    return x - y
 
 num1 = 15
 num2 = 20
